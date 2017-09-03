@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Sith
+   last: Apprentice
+email: sithapprentice2000@gmail.com
+leaderboard: SithApprentice
